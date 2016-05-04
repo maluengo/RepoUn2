@@ -13,14 +13,34 @@
 
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
-
-
+        <div class="navbar-header">
+        <a class="navbar-brand"
+           href="/">
+            Primer Form Bootstrap + AngularJS.
+        </a>
+        </div>
     </div>
-
-
-
 </nav>
 
+<!-- Contenedor principal que englobara al form-->
+
+<div class="container main-content">
+    <form name="theForm">
+
+        <!-- Input Text nro1-->
+        <div class="form-group">
+            <label for="name">Tu Nombre</label>
+            <input type="text"
+                   class="form-control"
+                   id="name">
+
+
+        </div>
+
+
+    </form>
+
+</div>
 
 <script src="../../bower_components/angular/angular.min.js"></script>
 <script src="../controller/FormValidationController.js"></script>
