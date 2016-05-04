@@ -14,4 +14,20 @@ var app = angular.module('LoginFormModule', []);
 //controller = recibe 3 argumentos)
 app.controller('LoginFormController', function ($scope, $http) {
 
+//Modelo, entidad generada para sustentar la vista(view)
+    //Generacion de objetos con $scope
+
+    $scope.formModel = {};
+
+    //funcion que llama al submit
+
+    $scope.onSubmit = function () {
+     console.log("Llegue, primer submit con AngularJS")
+        console.log($scope.formModel);
+
+      //next: llamadas HTTP
+
+    };
+
+
 });

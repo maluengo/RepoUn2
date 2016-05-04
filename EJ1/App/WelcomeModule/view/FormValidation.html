@@ -24,8 +24,10 @@
 
 <!-- Contenedor principal que englobara al form-->
 
-<div class="container main-content">
-    <form name="theForm">
+<div class="container main-content"
+     ng-controller="LoginFormController">
+
+    <form name="theForm" ng-submit="onSubmit();" >
 
         <!-- Input Text nro1-->
         <div class="form-group">
@@ -34,9 +36,15 @@
                    class="form-control"
                    id="name">
 
+        </div>
+        <!-- boton que gatilla submit-->
+        <div class="form-group">
+            <button class="btn btn-primary"
+            type="submit"> Registrar
+
+            </button>
 
         </div>
-
 
     </form>
 
