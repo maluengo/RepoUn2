@@ -24,12 +24,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FormValidation.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/App/WelcomeModule/view/FormValidation.html">
+      <file leaf-file-name="FormValidationController.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="238">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#44#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,8 +52,8 @@
       <list>
         <option value="$PROJECT_DIR$/controller/Main.css" />
         <option value="$PROJECT_DIR$/App/share/Main.css" />
-        <option value="$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js" />
         <option value="$PROJECT_DIR$/App/WelcomeModule/view/FormValidation.html" />
+        <option value="$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js" />
       </list>
     </option>
   </component>
@@ -205,6 +207,8 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/App/WelcomeModule/view/FormValidation.html" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -288,15 +292,15 @@
       <updated>1461799779670</updated>
       <workItem from="1461799784216" duration="1531000" />
       <workItem from="1462235014782" duration="1997000" />
-      <workItem from="1462400224645" duration="1573000" />
+      <workItem from="1462400224645" duration="2729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5101000" />
+    <option name="totallyTimeSpent" value="6257000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="0" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -337,7 +341,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1462402387265" expanded="true" signature="56:1077" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="63:281" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="288:1069" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="343:553" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="371:546" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="407:535" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="440:520" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="643:923" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="669:915" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="735:901" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="815:884" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -375,21 +391,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js">
+    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/view/FormValidation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
           <folding>
-            <marker date="1462235897169" expanded="false" signature="0:44" placeholder="/** Created by ML-Duoc on 02/05/2016. ...*/" />
+            <marker date="1462402387265" expanded="true" signature="56:1077" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="63:281" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="288:1069" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="343:553" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="371:546" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="407:535" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="440:520" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="643:923" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="669:915" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="735:901" placeholder="..." />
+            <marker date="1462402387265" expanded="true" signature="815:884" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/view/FormValidation.html">
+    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="238">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
