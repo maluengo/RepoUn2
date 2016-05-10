@@ -34,7 +34,10 @@
             <label for="name">Tu Nombre</label>
             <input type="text"
                    class="form-control"
-                   id="name">
+                   id="name"
+                   ng-model="formModel.name"
+
+                   >
 
         </div>
         <!-- boton que gatilla submit-->
@@ -47,6 +50,8 @@
         </div>
 
     </form>
+
+    <pre>{{formModel.name | json }}</pre>
 
 </div>
 

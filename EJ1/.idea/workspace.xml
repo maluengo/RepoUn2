@@ -24,14 +24,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FormValidationController.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js">
+      <file leaf-file-name="FormValidation.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/WelcomeModule/view/FormValidation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#44#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,8 +62,25 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -92,7 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -198,6 +212,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,8 +222,8 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/App/WelcomeModule/view/FormValidation.html" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.22624877" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -292,33 +307,35 @@
       <updated>1461799779670</updated>
       <workItem from="1461799784216" duration="1531000" />
       <workItem from="1462235014782" duration="1997000" />
-      <workItem from="1462400224645" duration="4685000" />
+      <workItem from="1462400224645" duration="4814000" />
+      <workItem from="1462840180050" duration="1905000" />
+      <workItem from="1462842239687" duration="466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8213000" />
+    <option name="totallyTimeSpent" value="10713000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24032739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -337,25 +354,41 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+          <folding>
+            <marker date="1462404502792" expanded="false" signature="0:44" placeholder="/** Created by ML-Duoc on 02/05/2016. ...*/" />
+            <marker date="1462404502792" expanded="true" signature="46:105" placeholder="//..." />
+            <marker date="1462404502792" expanded="true" signature="178:258" placeholder="//..." />
+            <marker date="1462404502792" expanded="true" signature="322:656" placeholder="{...}" />
+            <marker date="1462404502792" expanded="true" signature="325:420" placeholder="//..." />
+            <marker date="1462404502792" expanded="true" signature="519:651" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <marker date="1462404502792" expanded="false" signature="0:44" placeholder="/** Created by ML-Duoc on 02/05/2016. ...*/" />
+            <marker date="1462404502792" expanded="true" signature="46:105" placeholder="//..." />
+            <marker date="1462404502792" expanded="true" signature="178:258" placeholder="//..." />
+            <marker date="1462404502792" expanded="true" signature="322:656" placeholder="{...}" />
+            <marker date="1462404502792" expanded="true" signature="325:420" placeholder="//..." />
+            <marker date="1462404502792" expanded="true" signature="519:651" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App/WelcomeModule/view/FormValidation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <marker date="1462404962961" expanded="true" signature="56:1336" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="63:281" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="288:1328" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="343:553" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="371:546" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="407:535" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="440:520" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="643:1182" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="735:1174" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="802:967" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="882:951" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="1041:1161" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="1086:1145" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -363,10 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1462235921558" expanded="true" signature="7:33" placeholder="{...}" />
-            <marker date="1462235921558" expanded="true" signature="48:75" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -388,42 +417,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <marker date="1462235921558" expanded="true" signature="7:33" placeholder="{...}" />
-            <marker date="1462235921558" expanded="true" signature="48:75" placeholder="{...}" />
+            <marker date="1462404502792" expanded="false" signature="0:44" placeholder="/** Created by ML-Duoc on 02/05/2016. ...*/" />
+            <marker date="1462404502792" expanded="true" signature="46:105" placeholder="//..." />
+            <marker date="1462404502792" expanded="true" signature="178:258" placeholder="//..." />
+            <marker date="1462404502792" expanded="true" signature="322:656" placeholder="{...}" />
+            <marker date="1462404502792" expanded="true" signature="325:420" placeholder="//..." />
+            <marker date="1462404502792" expanded="true" signature="519:651" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/WelcomeModule/view/FormValidation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-          <folding>
-            <marker date="1462404962961" expanded="true" signature="56:1336" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="63:281" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="288:1328" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="343:553" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="371:546" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="407:535" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="440:520" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="643:1182" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="735:1174" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="802:967" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="882:951" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="1041:1161" placeholder="..." />
-            <marker date="1462404962961" expanded="true" signature="1086:1145" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
