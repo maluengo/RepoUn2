@@ -40,6 +40,27 @@
                    >
 
         </div>
+
+        <div class="form-group">
+            <label for="name">Password</label>
+            <input type="text"
+                   class="form-control"
+                   id="password"
+                   ng-model="formModel.password"
+
+            >
+
+        </div>
+        <div class="form-group">
+            <label for="name">Email</label>
+            <input type="email"
+                   class="form-control"
+                   id="email"
+                   ng-model="formModel.email"
+
+            >
+
+        </div>
         <!-- boton que gatilla submit-->
         <div class="form-group">
             <button class="btn btn-primary"
@@ -52,6 +73,8 @@
     </form>
 
     <pre>{{formModel.name | json }}</pre>
+    <pre>{{formModel.password | json }}</pre>
+    <pre>{{formModel.email | json }}</pre>
 
 </div>
 
