@@ -21,12 +21,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server.js">
+      <file leaf-file-name="client.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="102">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#44#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,9 +46,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/claim.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/claim.js" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/client.js" />
       </list>
     </option>
   </component>
@@ -56,10 +59,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -86,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -118,9 +121,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RestApi_Restify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RestApi_Restify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -131,7 +147,7 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/server.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EJ1" />
   </component>
   <component name="RunManager" selected="Node.js.DebugginSession_Node1">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -159,6 +175,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -191,6 +213,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ccc103da-4204-4b4e-b41a-88971b5f309d" name="Default" comment="" />
@@ -198,34 +223,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1464219731859</updated>
-      <workItem from="1464219735986" duration="5508000" />
+      <workItem from="1464219735986" duration="5924000" />
+      <workItem from="1464390654753" duration="344000" />
+      <workItem from="1464656288988" duration="570000" />
+      <workItem from="1464822795890" duration="5216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5508000" />
+    <option name="totallyTimeSpent" value="12054000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="683" y="0" width="683" height="738" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3608631" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.751938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33793104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -235,34 +271,104 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="714">
+          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
           <folding>
-            <marker date="1464220562494" expanded="true" signature="0:318" placeholder="{&quot;name&quot;: &quot;application-name&quot;...}" />
-            <marker date="1464220562494" expanded="true" signature="75:129" placeholder="{&quot;mongojs&quot;: &quot;^2.4.0&quot;...}" />
-            <marker date="1464220562494" expanded="true" signature="144:179" placeholder="{&quot;start&quot;: &quot;node server.js&quot;...}" />
-            <marker date="1464220562494" expanded="true" signature="251:280" placeholder="{&quot;restify&quot;: &quot;^4.1.0&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/claim.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1464220029711" expanded="false" signature="0:44" placeholder="/** Created by ML-Duoc on 25/05/2016. ...*/" />
+            <marker date="1464826289253" expanded="false" signature="0:44" placeholder="/** Created by ML-Duoc on 25/05/2016. ...*/" />
+            <marker date="1464826289253" expanded="true" signature="46:53" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="123:161" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="255:294" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="296:321" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="360:409" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="533:566" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="600:659" placeholder="{...}" />
+            <marker date="1464826289253" expanded="true" signature="663:808" placeholder="/**server.get(&quot;/product&quot;,function (req, res, next) { ...*/" />
+            <marker date="1464826289253" expanded="true" signature="858:1055" placeholder="{...}" />
+            <marker date="1464826289253" expanded="true" signature="901:1051" placeholder="{...}" />
+            <marker date="1464826289253" expanded="true" signature="929:1003" placeholder="{&quot;Content Type:&quot;: 'application/json charset=utf-8'...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="714">
+          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+          <folding>
+            <marker date="1464826289253" expanded="false" signature="0:44" placeholder="/** Created by ML-Duoc on 25/05/2016. ...*/" />
+            <marker date="1464826289253" expanded="true" signature="46:53" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="123:161" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="255:294" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="296:321" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="360:409" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="533:566" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="600:659" placeholder="{...}" />
+            <marker date="1464826289253" expanded="true" signature="663:808" placeholder="/**server.get(&quot;/product&quot;,function (req, res, next) { ...*/" />
+            <marker date="1464826289253" expanded="true" signature="858:1055" placeholder="{...}" />
+            <marker date="1464826289253" expanded="true" signature="901:1051" placeholder="{...}" />
+            <marker date="1464826289253" expanded="true" signature="929:1003" placeholder="{&quot;Content Type:&quot;: 'application/json charset=utf-8'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+          <folding>
+            <marker date="1464826289253" expanded="false" signature="0:44" placeholder="/** Created by ML-Duoc on 25/05/2016. ...*/" />
+            <marker date="1464826289253" expanded="true" signature="46:53" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="123:161" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="255:294" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="296:321" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="360:409" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="533:566" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="600:659" placeholder="{...}" />
+            <marker date="1464826289253" expanded="true" signature="663:808" placeholder="/**server.get(&quot;/product&quot;,function (req, res, next) { ...*/" />
+            <marker date="1464826289253" expanded="true" signature="858:1055" placeholder="{...}" />
+            <marker date="1464826289253" expanded="true" signature="901:1051" placeholder="{...}" />
+            <marker date="1464826289253" expanded="true" signature="929:1003" placeholder="{&quot;Content Type:&quot;: 'application/json charset=utf-8'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1464826289253" expanded="false" signature="0:44" placeholder="/** Created by ML-Duoc on 25/05/2016. ...*/" />
+            <marker date="1464826289253" expanded="true" signature="46:53" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="123:161" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="255:294" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="296:321" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="360:409" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="533:566" placeholder="/**...*/" />
+            <marker date="1464826289253" expanded="true" signature="600:659" placeholder="{...}" />
+            <marker date="1464826289253" expanded="true" signature="663:808" placeholder="/**server.get(&quot;/product&quot;,function (req, res, next) { ...*/" />
+            <marker date="1464826289253" expanded="true" signature="858:1055" placeholder="{...}" />
+            <marker date="1464826289253" expanded="true" signature="901:1051" placeholder="{...}" />
+            <marker date="1464826289253" expanded="true" signature="929:1003" placeholder="{&quot;Content Type:&quot;: 'application/json charset=utf-8'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

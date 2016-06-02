@@ -8,7 +8,7 @@ var mongojs = require('mongojs');
 
 /** Vinculacion con DB en MongoLAB **/
 
-var db = mongojs('mongodb://admin:admin@ds053858.mlab.com:53858/db_dai_un2', ['products']);
+var db = mongojs('mongodb://admin:admin@ds053858.mlab.com:53858/db_dai_un2', ['product']);
 
 /** Referencia al server con NodeJS **/
 
@@ -34,7 +34,7 @@ server.get("/product",function (req, res, next) {
 });
 **/
 
-server.get("/products",function (req, res, next) {
+server.get("/product",function (req, res, next) {
     db.product.find(function (err, data) {
         res.writeHead(200,{
             'Content Type:' : 'application/json charset=utf-8'
@@ -43,3 +43,5 @@ server.get("/products",function (req, res, next) {
 
     });
 });
+
+module.exports = server;

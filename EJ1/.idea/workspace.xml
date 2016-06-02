@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FormValidation.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/App/WelcomeModule/view/FormValidation.html">
+      <file leaf-file-name="Main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/share/Main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -107,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -212,7 +213,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,7 +221,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../RepoUn2-v1.1/EJ1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.22624877" />
   </component>
@@ -312,32 +312,33 @@
       <workItem from="1462842239687" duration="466000" />
       <workItem from="1463006532980" duration="1552000" />
       <workItem from="1463008544251" duration="25000" />
+      <workItem from="1464827284459" duration="904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12290000" />
+    <option name="totallyTimeSpent" value="13194000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24032739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24032739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -360,7 +361,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-          <folding />
+          <folding>
+            <marker date="1463006942344" expanded="true" signature="56:2055" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="63:281" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="288:2047" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="343:553" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="371:546" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="407:535" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="440:520" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="643:1901" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="735:1761" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="802:1033" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="882:1017" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1067:1298" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1146:1282" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1331:1554" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1408:1538" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1628:1748" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1673:1732" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/view/FormValidation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+          <folding>
+            <marker date="1463006942344" expanded="true" signature="56:2055" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="63:281" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="288:2047" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="343:553" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="371:546" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="407:535" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="440:520" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="643:1901" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="735:1761" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="802:1033" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="882:1017" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1067:1298" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1146:1282" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1331:1554" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1408:1538" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1628:1748" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1673:1732" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -368,7 +413,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
-          <folding />
+          <folding>
+            <marker date="1463006942344" expanded="true" signature="56:2055" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="63:281" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="288:2047" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="343:553" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="371:546" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="407:535" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="440:520" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="643:1901" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="735:1761" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="802:1033" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="882:1017" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1067:1298" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1146:1282" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1331:1554" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1408:1538" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1628:1748" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1673:1732" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -406,7 +469,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1463006942344" expanded="true" signature="56:2055" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="63:281" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="288:2047" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="343:553" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="371:546" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="407:535" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="440:520" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="643:1901" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="735:1761" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="802:1033" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="882:1017" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1067:1298" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1146:1282" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1331:1554" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1408:1538" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1628:1748" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1673:1732" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -431,13 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/share/Main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -455,8 +529,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/App/WelcomeModule/view/FormValidation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <marker date="1463006942344" expanded="true" signature="56:2055" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="63:281" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="288:2047" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="343:553" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="371:546" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="407:535" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="440:520" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="643:1901" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="735:1761" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="802:1033" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="882:1017" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1067:1298" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1146:1282" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1331:1554" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1408:1538" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1628:1748" placeholder="..." />
+            <marker date="1463006942344" expanded="true" signature="1673:1732" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/share/Main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
